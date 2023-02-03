@@ -4,5 +4,5 @@ foreach (@ARGV){
 	$sum = $_ + $sum;	
 		}
 	}
-	print("Addition is :".$sum);
+	print("Addition is : $sum\n");
 		
